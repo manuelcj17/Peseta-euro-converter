@@ -18,6 +18,8 @@ int main(){
    cin >> pts;
    euros = pts/PTS_EUR;
    cout << pts << " pesetas equivalen a: " << euros << " euros" << endl;
+
+   return 0;
 }
 
 
