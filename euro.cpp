@@ -4,7 +4,7 @@
 using namespace std;
 
 //Indicamos el valor actual de euro a peseta
-double PTS_EUR = 166.38;
+const double PTS_EUR = 166.38;
 
 int main(){
 
